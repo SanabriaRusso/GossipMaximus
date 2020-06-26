@@ -1,0 +1,6 @@
+**/.retry
+**/.DS_Store
+**/._*
+*.pyc
+**/.py.swp
+__pycache__/
